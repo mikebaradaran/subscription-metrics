@@ -1,0 +1,14 @@
+C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.App\bin\Debug\net9.0\SubscriptionMetrics.App.exe
+C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.App\bin\Debug\net9.0\SubscriptionMetrics.App.deps.json
+C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.App\bin\Debug\net9.0\SubscriptionMetrics.App.runtimeconfig.json
+C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.App\bin\Debug\net9.0\SubscriptionMetrics.App.dll
+C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.App\bin\Debug\net9.0\SubscriptionMetrics.App.pdb
+C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.App\obj\Debug\net9.0\SubscriptionMetrics.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.App\obj\Debug\net9.0\SubscriptionMetrics.App.AssemblyInfoInputs.cache
+C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.App\obj\Debug\net9.0\SubscriptionMetrics.App.AssemblyInfo.cs
+C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.App\obj\Debug\net9.0\SubscriptionMetrics.App.csproj.CoreCompileInputs.cache
+C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.App\obj\Debug\net9.0\SubscriptionMetrics.App.dll
+C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.App\obj\Debug\net9.0\refint\SubscriptionMetrics.App.dll
+C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.App\obj\Debug\net9.0\SubscriptionMetrics.App.pdb
+C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.App\obj\Debug\net9.0\SubscriptionMetrics.App.genruntimeconfig.cache
+C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.App\obj\Debug\net9.0\ref\SubscriptionMetrics.App.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SubscriptionMetrics.App/1.0.0": {
+        "runtime": {
+          "SubscriptionMetrics.App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SubscriptionMetrics.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
