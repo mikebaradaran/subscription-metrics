@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SubscriptionMetrics.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e9a2a1e0fa2ef80ecd94ec4cd40454aef44d44a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SubscriptionMetrics.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SubscriptionMetrics.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
