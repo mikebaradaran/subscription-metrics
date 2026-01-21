@@ -103,3 +103,4 @@ C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.Tests\obj\Debug\net9.0
 C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.Tests\obj\Debug\net9.0\SubscriptionMetrics.Tests.pdb
 C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.Tests\obj\Debug\net9.0\SubscriptionMetrics.Tests.genruntimeconfig.cache
 C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.Tests\obj\Debug\net9.0\ref\SubscriptionMetrics.Tests.dll
+C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.Tests\obj\Debug\net9.0\SubscriptionMetrics.Tests.sourcelink.json

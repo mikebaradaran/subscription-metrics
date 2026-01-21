@@ -12,3 +12,4 @@ C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.App\obj\Debug\net8.0\r
 C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.App\obj\Debug\net8.0\SubscriptionMetrics.App.pdb
 C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.App\obj\Debug\net8.0\SubscriptionMetrics.App.genruntimeconfig.cache
 C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.App\obj\Debug\net8.0\ref\SubscriptionMetrics.App.dll
+C:\QA\2025 DevOps\SubscriptionMetrics\SubscriptionMetrics.App\obj\Debug\net8.0\SubscriptionMetrics.App.sourcelink.json
